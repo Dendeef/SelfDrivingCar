@@ -16,7 +16,7 @@ To remove and restart the neural network you press the 🗑️ button.
 
 To restart the cars you press the 🔄 button.
 
-Every time the you press the 🔄 button your latest  neural network will stay the same;.
+Every time that you press the 🔄 button your latest neural network will stay the same.
 
 
 
